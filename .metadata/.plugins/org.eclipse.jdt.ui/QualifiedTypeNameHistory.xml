@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.A"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.util.logging.Logger"/>
 <fullyQualifiedTypeName name="orderManagement.Order"/>
+<fullyQualifiedTypeName name="FDAccount"/>
+<fullyQualifiedTypeName name="IAccount"/>
+<fullyQualifiedTypeName name="CollegeStudent"/>
+<fullyQualifiedTypeName name="StudentAbstract"/>
+<fullyQualifiedTypeName name="HighSchoolStudent"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
