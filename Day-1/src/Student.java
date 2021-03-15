@@ -4,6 +4,7 @@ public class Student extends Human {
 	
 	
 	void study() {
+		super.studyH();
 		System.out.println(getName()+" is studying.");
 	}
 	

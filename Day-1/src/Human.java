@@ -17,4 +17,8 @@ public class Human {
 	public void setAge(byte age) {
 		this.age = age;
 	}
+	
+	void studyH() {
+		System.out.println("In class Human");
+	}
 }
